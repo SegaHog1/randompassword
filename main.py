@@ -1,6 +1,7 @@
 import random
 
-thing = "+-/*!&$#?=@abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
+thing = "arel"
+thing = "tails"
 amount = int(input())
 
 final = ""
